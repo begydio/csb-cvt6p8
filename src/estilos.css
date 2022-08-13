@@ -1,0 +1,25 @@
+#hw1 {
+  font-style: comic-sans;
+  text-align: center;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+#hw2 {
+  font-style: italic;
+  font-size: 15px;
+  text-align: right;
+  color: darkgray;
+  background-color: darkblue;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  margin-top: 80px;
+}
+
+/*#hw5 {
+  font-size: 15px;
+  text-align: right;
+  color: white;
+  background-color: darkgreen;
+}*/
